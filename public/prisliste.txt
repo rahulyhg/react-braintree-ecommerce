@@ -1,0 +1,132 @@
+produktnavn;pris;URL;bildeURL;produktkategori;stock_status;produktbeskrivelse;
+
+Apple 30-pin USB Kabel;119;https://adaptere.no/produkter/apple-30-pin-usb-kabel;https://adaptere.no/productImages/apple-30-pin-usb-kabel.jpg;usb;in_stock;Passer alle eldre Apple produkter med 30-pin kontakt.;
+
+Apple Lightning USB Kabel;119;https://adaptere.no/produkter/apple-lightning-usb-kabel;https://adaptere.no/productImages/apple-lightning-usb-kabel.jpg;usb;in_stock;Lightning USB kabel. Passer alle nyere Apple produkter. Heavy duty 2.0A strømkapasitet.;
+
+Coaxial Digitalkabel;79;https://adaptere.no/produkter/coaxial-digitalkabel;https://adaptere.no/productImages/coaxial-digitalkabel.jpg;lyd;in_stock;Coaxial / SPDIF digital kabel av høy kvalitet. Brukes til overføring av digital lyd mellom kilde og f.eks en surround forsterker.;
+
+Displayport Kabel;119;https://adaptere.no/produkter/displayport-kabel;https://adaptere.no/productImages/displayport-kabel.jpg;bilde;in_stock;Standard displayport kabel. Gullbelagte kontaktflater.;
+
+DVI Kabel;79;https://adaptere.no/produkter/dvi-kabel;https://adaptere.no/productImages/dvi-kabel.jpg;bilde;in_stock;Standard DVI kabel. Gullbelagte kontaktflater.;
+
+Ethernet / LAN nettverkskabel;39;https://adaptere.no/produkter/ethernet-lan-nettverkskabel;https://adaptere.no/productImages/ethernet-lan-nettverkskabel.jpg;diverse;in_stock;Standard ethernet / LAN nettverkskabel (Cat5E).;
+
+Gamecube / N64 / SNES AV Kabel;119;https://adaptere.no/produkter/gamecube-n64-snes-av-kabel;https://adaptere.no/productImages/gamecube-n64-snes-av-kabel.jpg;diverse;in_stock;AV-kabel for Gamecube, Nintendo 64, og SNES (Super Nintendo).;
+
+HDMI Extension Adapter;59;https://adaptere.no/produkter/hdmi-extension-adapter;https://adaptere.no/productImages/hdmi-extension-adapter.jpg;bilde;in_stock;HDMI extension adapter. Kan brukes for å skjøte 2 HDMI kabler sammen. Pris pr stk.;
+
+HDMI Kabel;79;https://adaptere.no/produkter/hdmi-kabel;https://adaptere.no/productImages/hdmi-kabel.jpg;bilde;in_stock;HDMI kabel av god kvalitet. Gullbelagte kontakter i begge ender for best mulig signaloverføring.;
+
+HDMI til Displayport Adapter;79;https://adaptere.no/produkter/hdmi-til-displayport-adapter;https://adaptere.no/productImages/hdmi-til-displayport-adapter.jpg;bilde;in_stock;HDMI til Displayport adapter. Kan benyttes som overgang mellom nevnte grensesnitt.;
+
+HDMI til DVI Adapter;79;https://adaptere.no/produkter/hdmi-til-dvi-adapter;https://adaptere.no/productImages/hdmi-til-dvi-adapter.jpg;bilde;in_stock;HDMI (hunn) til DVI (hann) adapter. Brukes som overgang mellom nevnte grensesnitt. Gullbelagte kontaktflater.;
+
+HDMI til DVI kabel;98;https://adaptere.no/produkter/hdmi-til-dvi-kabel;https://adaptere.no/productImages/hdmi-til-dvi-kabel.jpg;bilde;in_stock;HDMI til DVI kabel adapter kabel av god kvalitet. Kan benyttes som overgang mellom nevnte grensesnitt. Lengde 1m.;
+
+HDMI til Micro-HDMI Adapter;69;https://adaptere.no/produkter/hdmi-til-micro-hdmi-adapter;https://adaptere.no/productImages/hdmi-til-micro-hdmi-adapter.jpg;bilde;in_stock;HDMI (hunn) til micro-HDMI (hann) adapter/overgang. Gullbelagte kontakter i begge ender. Lengde omtrent 20 cm.;
+
+HDMI til Mini-DisplayPort Adapter;119;https://adaptere.no/produkter/hdmi-til-mini-displayport-adapter;https://adaptere.no/productImages/hdmi-til-mini-displayport-adapter.jpg;bilde;in_stock;HDMI (hunn) til Mini DisplayPort (hann) adapter. Kan benyttes som overgang mellom nevnte grensesnitt.;
+
+HDMI til USB-C Adapter;179;https://adaptere.no/produkter/hdmi-til-usb-c-adapter;https://adaptere.no/productImages/hdmi-til-usb-c-adapter.jpg;bilde;not_in_stock;Overgang fra HDMI til USB-C. Spesielt nyttig på nyere utstyr med kun USB-C utganger, og ikke HDMI.;
+
+HDMI til VGA adapter;198;https://adaptere.no/produkter/hdmi-til-vga-adapter;https://adaptere.no/productImages/hdmi-til-vga-adapter.jpg;bilde;in_stock;Konverterer et digitalt HDMI signal til analogt VGA, med minijack lyd ut. Strømforsyning via micro-USB (kabel følger med), som kan brukes dersom video-utgangen ikke alene gir nok strøm.;
+
+HDMI Vinkel Adapter;69;https://adaptere.no/produkter/hdmi-vinkel-adapter;https://adaptere.no/productImages/hdmi-vinkel-adapter.jpg;bilde;not_in_stock;HDMI vinkel adapter. Egner seg godt til bruk i trange applikasjoner, som f.eks bak en flat-tv eller lignende.;
+
+Headset (minijack) Extension Kabel;59;https://adaptere.no/produkter/headset-minijack-extension-kabel;https://adaptere.no/productImages/headset-minijack-extension-kabel.jpg;lyd;in_stock;Kort Mini-jack extension kabel av høy kvalitet. Lengde ca. 17cm. Gullbelagte kontaktflater.;
+
+Headset Kabel (Minijack);79;https://adaptere.no/produkter/headset-minijack-kabel;https://adaptere.no/productImages/headset-minijack-kabel.jpg;lyd;in_stock;Headset/minijack kabel av høy kvalitet. Lengde 1m.;
+
+Jack Kabel;98;https://adaptere.no/produkter/jack-kabel;https://adaptere.no/productImages/jack-kabel.jpg;lyd;in_stock;Standard 3 meter lang jack kabel;
+
+Jack til Minijack Adapter;59;https://adaptere.no/produkter/jack-til-minijack-adapter;https://adaptere.no/productImages/jack-til-minijack-adapter.jpg;lyd;in_stock;Jack (hunn) til minijack (hann) adapter. Kan benyttes som overgang mellom nevnte grensesnitt. Pris pr. stk.;
+
+Jack til XLR adapter;79;https://adaptere.no/produkter/jack-til-xlr-adapter;https://adaptere.no/productImages/jack-til-xlr-adapter.jpg;lyd;in_stock;Jack (hunn) til XLR (hann) adapter. Kan benyttes som overgang mellom nevnte grensesnitt. Heavy duty konstruksjon.;
+
+Kompositt AV-kabel;59;https://adaptere.no/produkter/kompositt-av-kabel;https://adaptere.no/productImages/kompositt-av-kabel.jpg;bilde;in_stock;Standard kompositt AV (lyd og bilde) kabel. Ofte brukt på eldre AV utstyr.;
+
+Kompositt til HDMI Konverter;229;https://adaptere.no/produkter/kompositt-til-hdmi-konverter;https://adaptere.no/productImages/kompositt-til-hdmi-konverter.jpg;diverse;not_in_stock;Konverteringsboks for kompositt til HDMI. Gjør om et analogt kompositt signal til et digitalt HDMI signal. Aluminiumskonstruksjon med strømforsyning via micro-USB (kabel følger med).;
+
+Micro-HDMI Kabel;89;https://adaptere.no/produkter/micro-hdmi-kabel;https://adaptere.no/productImages/micro-hdmi-kabel.jpg;bilde;in_stock;HDMI til micro HDMI kabel. Gullbelagte kontaktflater for best mulig signaloverføring.;
+
+Micro-USB 3.0 Kabel;69;https://adaptere.no/produkter/micro-usb-3-0-kabel;https://adaptere.no/productImages/micro-usb-3-0-kabel.jpg;usb;in_stock;Standard micro-USB 3.0 kabel.;
+
+Micro-USB Kabel;69;https://adaptere.no/produkter/micro-usb-kabel;https://adaptere.no/productImages/micro-usb-kabel.jpg;usb;in_stock;Standard micro-USB kabel.;
+
+Micro-USB til USB-C Adapter;79;https://adaptere.no/produkter/micro-usb-til-usb-c-adapter;https://adaptere.no/productImages/micro-usb-til-usb-c-adapter.jpg;usb;in_stock;Overgang fra micro-USB (hunn) til USB-C (hann).  Pris per stk.;
+
+Mini DisplayPort til DVI adapter;119;https://adaptere.no/produkter/mini-displayport-til-dvi-adapter;https://adaptere.no/productImages/mini-displayport-til-dvi-adapter.jpg;bilde;in_stock;Mini DisplayPort (hann) til DVI (hunn) adapter. Brukes som overgang mellom nevnte grensesnitt.;
+
+Mini-Displayport til VGA Adapter;119;https://adaptere.no/produkter/mini-displayport-til-vga-adapter;https://adaptere.no/productImages/mini-displayport-til-vga-adapter.jpg;bilde;in_stock;Mini-Displayport til VGA adapter. Kan benyttes som overgang mellom nevnte grensesnitt.;
+
+Mini-DVI til HDMI adapter;119;https://adaptere.no/produkter/mini-dvi-til-hdmi-adapter;https://adaptere.no/productImages/mini-dvi-til-hdmi-adapter.jpg;bilde;in_stock;Mini-DVI (hann) til HDMI (hunn) adapter. Kan benyttes som overgang mellom nevnte grensesnitt.;
+
+Mini-HDMI Kabel;69;https://adaptere.no/produkter/mini-hdmi-kabel;https://adaptere.no/productImages/mini-hdmi-kabel.jpg;bilde;in_stock;Mini-HDMI til HDMI kabel. Kan benyttes som overgang mellom nevnte grensesnitt.;
+
+Mini-Toslink/Optisk Kabel;98;https://adaptere.no/produkter/mini-toslink-optisk-kabel;https://adaptere.no/productImages/mini-toslink-optisk-kabel.jpg;lyd;in_stock;Mini-Toslink / Optisk digitalkabel. Ofte brukt for digital lyd ut fra diverse Apple produkter som Macbook og Airport Express.;
+
+Mini-USB Kabel;79;https://adaptere.no/produkter/mini-usb-kabel;https://adaptere.no/productImages/mini-usb-kabel.jpg;usb;in_stock;USB til mini-USB kabel. Brukes ofte av eksterne hardisker, håndkontrollere mm.;
+
+Minijack Kabel;119;https://adaptere.no/produkter/minijack-kabel;https://adaptere.no/productImages/minijack-kabel.jpg;lyd;in_stock;Minijack kabel av høy kvalitet. Flettet tekstil-kabel med gullbelagte kontaktender. Godt isolert.;
+
+Minijack Splitter (Y-ledd);59;https://adaptere.no/produkter/minijack-splitter-y-ledd;https://adaptere.no/productImages/minijack-splitter-y-ledd.jpg;lyd;in_stock;Splitter et mini-jack signal opp i to. Gjør det bla. mulig å benytte 2 hodetelefoner mot kun én hodetelefon utgang.;
+
+Minijack til Jack Adapter;59;https://adaptere.no/produkter/minijack-til-jack-adapter;https://adaptere.no/productImages/minijack-til-jack-adapter.jpg;lyd;in_stock;Minijack (hunn) til jack (hann) adapter/overgang. Gullbelagte kontaktflater. Stereo. Pris pr stk.;
+
+Nintendo DS / GBA Kabel;119;https://adaptere.no/produkter/nintendo-ds-gba-kabel;https://adaptere.no/productImages/nintendo-ds-gba-kabel.jpg;usb;in_stock;Ladekabel for første generasjon Nintendo DS samt Gameboy Advance.;
+
+Nintendo DS Lite Kabel;89;https://adaptere.no/produkter/nintendo-ds-lite-kabel;https://adaptere.no/productImages/nintendo-ds-lite-kabel.jpg;usb;in_stock;Ladekabel for Nintendo DS Lite.;
+
+Nintendo DSi / 3DS kabel;89;https://adaptere.no/produkter/nintendo-dsi-3ds-kabel;https://adaptere.no/productImages/nintendo-dsi-3ds-kabel.jpg;usb;in_stock;Ladekabel for Nintendo 3DS og DSi.;
+
+Nintendo Wii U GamePad Ladekabel;89;https://adaptere.no/produkter/nintendo-wii-u-gamepad-ladekabel;https://adaptere.no/productImages/nintendo-wii-u-gamepad-ladekabel.jpg;usb;in_stock;Ladekabel for Nintendo Wii U GamePad.;
+
+RCA Kabel;69;https://adaptere.no/produkter/rca-kabel;https://adaptere.no/productImages/rca-kabel.jpg;lyd;in_stock;Standard RCA / Phono kabel.;
+
+RCA til Jack Adapter;49;https://adaptere.no/produkter/rca-til-jack-adapter;https://adaptere.no/productImages/rca-til-jack-adapter.jpg;lyd;in_stock;RCA (hunn) til Jack (hann) adapter/overgang. Gullbelagte kontaktflater. Mono. Pris pr stk.;
+
+RCA til Minijack Kabel;59;https://adaptere.no/produkter/rca-til-minijack-kabel;https://adaptere.no/productImages/rca-til-minijack-kabel.jpg;lyd;in_stock;RCA til mini-jack kabel (også kalt AUX kabel).;
+
+RCA til XLR Adapter;79;https://adaptere.no/produkter/rca-til-xlr-adapter;https://adaptere.no/productImages/rca-til-xlr-adapter.jpg;lyd;in_stock;RCA / phono (hunn) til XLR (hann) adapter. Kan benyttes som overgang mellom nevnte grensesnitt. Heavy duty konstruksjon.;
+
+SCART Kabel;98;https://adaptere.no/produkter/scart-kabel;https://adaptere.no/productImages/scart-kabel.jpg;bilde;in_stock;SCART kabel. Benyttes ofte på eldre DVD og VCR spillere og lignende. Lengde 150cm.;
+
+Strømkabel (2-pol);79;https://adaptere.no/produkter/stromkabel-2-pol;https://adaptere.no/productImages/stromkabel-2-pol.jpg;diverse;in_stock;Standard 2-pol strømkabel.;
+
+Strømkabel (3-pol);98;https://adaptere.no/produkter/stromkabel-3-pol;https://adaptere.no/productImages/stromkabel-3-pol.jpg;diverse;in_stock;Alternativ 3-pol strømkabel.;
+
+Strømkabel Standard (3-pol);98;https://adaptere.no/produkter/stromkabel-standard-3-pol;https://adaptere.no/productImages/stromkabel-standard-3-pol.jpg;diverse;in_stock;Standard 3-pol strømkabel.;
+
+Toslink/Optisk Kabel;89;https://adaptere.no/produkter/toslink-optisk-kabel;https://adaptere.no/productImages/toslink-optisk-kabel.jpg;lyd;in_stock;Toslink / Optisk digitalkabel. Brukes til digital overføring av lyd.;
+
+USB 3.0 Kabel;69;https://adaptere.no/produkter/usb-kabel;https://adaptere.no/productImages/usb-kabel.jpg;usb;in_stock;Standard USB kabel. Teoretisk overføringshastighet på opp til 5Gbps (10x hastigheten på USB 2.0).;
+
+USB Extension Adapter;59;https://adaptere.no/produkter/usb-extension-adapter;https://adaptere.no/productImages/usb-extension-adapter.jpg;usb;in_stock;Kan brukes for å skjøte sammen et par USB kabler. Er bakoverkompatibel med eldre USB versjoner.;
+
+USB til USB-C Adapter;89;https://adaptere.no/produkter/usb-til-usb-c-adapter;https://adaptere.no/productImages/usb-til-usb-c-adapter.jpg;usb;in_stock;Vanlig USB til USB-C adapter. Spesielt hendig på nyere utstyr med de nye USB-C portene.;
+
+USB til Xbox 360 Adapter;89;https://adaptere.no/produkter/usb-til-xbox-360-adapter;https://adaptere.no/productImages/usb-til-xbox-360-adapter.jpg;usb;in_stock;USB til Xbox 360 kontroller kabel. Gjør det mulig å koble din kablede Xbox 360 kontroller til PC / Mac.;
+
+USB Vinkel Adapter;59;https://adaptere.no/produkter/usb-vinkel-adapter;https://adaptere.no/productImages/usb-vinkel-adapter.jpg;usb;in_stock;USB 3.0. Egner seg godt til bruk i trange applikasjoner, som f.eks bak en flat-tv eller lignende.;
+
+USB-B Kabel;79;https://adaptere.no/produkter/usb-b-kabel;https://adaptere.no/productImages/usb-b-kabel.jpg;usb;in_stock;Mye brukt i skrivere/printere, studioutstyr mm.;
+
+USB-C Kabel;129;https://adaptere.no/produkter/usb-c-kabel;https://adaptere.no/productImages/usb-c-kabel.jpg;usb;in_stock;Robust USB-C kabel av god kvalitet. Høy ladekapasitet på 2,4 A, og opptil 480 Mbps dataoverføring.;
+
+USB-C til USB Adapter;79;https://adaptere.no/produkter/usb-c-til-usb-adapter;https://adaptere.no/productImages/usb-c-til-usb-adapter.jpg;usb;in_stock;Overgang fra USB-C til vanlig USB. ;
+
+VGA Kabel;89;https://adaptere.no/produkter/vga-kabel;https://adaptere.no/productImages/vga-kabel.jpg;bilde;in_stock;Robust VGA kabel av god kvalitet.;
+
+VGA til DVI Adapter;69;https://adaptere.no/produkter/vga-til-dvi-adapter;https://adaptere.no/productImages/vga-til-dvi-adapter.jpg;bilde;in_stock;VGA (hunn) til DVI (hann) adapter. Kan brukes som overgang mellom VGA til DVI. Gullbelagte kontaktflater.;
+
+Vinklet HDMI Kabel;98;https://adaptere.no/produkter/vinklet-hdmi-kabel;https://adaptere.no/productImages/vinklet-hdmi-kabel.jpg;bilde;in_stock;Vinklet HDMI kabel av god kvalitet. Gullbelagte kontaktflater.;
+
+Vinklet Mini-HDMI Kabel;89;https://adaptere.no/produkter/vinklet-mini-hdmi-kabel;https://adaptere.no/productImages/vinklet-mini-hdmi-kabel.jpg;bilde;in_stock;Vinklet Mini HDMI til HDMI kabel. Kan benyttes som overgang mellom nevnte grensesnitt.;
+
+XLR til Jack Adapter;79;https://adaptere.no/produkter/xlr-til-jack-adapter;https://adaptere.no/productImages/xlr-til-jack-adapter.jpg;lyd;in_stock;XLR (hunn) til Jack (hann) adapter/overgang. Kan benyttes som overgang mellom nevnte grensesnitt. Heavy duty konstruksjon.;
+
+XLR til Minijack Kabel;89;https://adaptere.no/produkter/xlr-til-minijack-kabel;https://adaptere.no/productImages/xlr-til-minijack-kabel.jpg;lyd;not_in_stock;2x XLR til minijack (stereo) adapter kabel av god kvalitet.;
+
+XLR til RCA Adapter;79;https://adaptere.no/produkter/xlr-til-rca-adapter;https://adaptere.no/productImages/xlr-til-rca-adapter.jpg;lyd;in_stock;XLR (hunn) til RCA (hann) adapter. Kan benyttes som overgang mellom nevnte grensesnitt. Heavy duty konstruksjon. Pris pr stk.;
+
